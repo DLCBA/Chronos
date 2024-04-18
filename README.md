@@ -274,7 +274,7 @@ Cómo la mayoría del análisis de BI lo abordamos en Power BI, solo nos concent
 
 **EDA**
 
-![Static Badge](https://img.shields.io/badge/Adidas%20EDA-black?style=flat-square&label=COLAB&color=orange&link=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F17FoaaFcNQaC4q4OM4wbbqiJDAzYW1F_P%3Fusp%3Dsharing)
+[Adidas EDA](https://colab.research.google.com/drive/17FoaaFcNQaC4q4OM4wbbqiJDAzYW1F_P?usp=sharing)
 
 
 **Análisis Exploratorio de Datos**
@@ -301,13 +301,13 @@ A continuación se detallan los códigos que se probaron:
 
 **Pycaret series tiempo**
 
-[Adidas_Pycaret_Series.ipynb](https://colab.research.google.com/drive/19-0pZbaeyo4SPOirjYYGBxgYcod720rz?usp=sharing)![](Aspose.Words.7a640a02-b30b-48d2-b42f-a4a7d2b7589e.010.png)
+[Adidas Pycaret Series](https://colab.research.google.com/drive/19-0pZbaeyo4SPOirjYYGBxgYcod720rz?usp=sharing)
 
 En Pycaret series de tiempo la utilidad que sacamos de los datos es que nos indica que la serie de tiempo es estacionaria. Las métricas no son adecuadas.
 
 **Smoothing**
 
-[Adidas_ Suavizados.ipynb](https://colab.research.google.com/drive/11bjW1yczuhpGgmfUhT0VCc2I0ezTKvj4?usp=sharing)![](Aspose.Words.7a640a02-b30b-48d2-b42f-a4a7d2b7589e.011.png)
+[Adidas Suavizados](https://colab.research.google.com/drive/11bjW1yczuhpGgmfUhT0VCc2I0ezTKvj4?usp=sharing)
 
 Se decide probar diferentes modelos econométricos.
 
@@ -335,7 +335,7 @@ Se evaluaron diferentes modelos estadísticos para ajustarse a los datos y reali
 
 **Modelo con Prophet**
 
-[AdidasV2_prophet.ipynb](https://colab.research.google.com/drive/180vroGH9nemeA4ZsSA1Zg0mHWDiT8XYH?usp=sharing)![](Aspose.Words.7a640a02-b30b-48d2-b42f-a4a7d2b7589e.012.png)
+[Adidas Prophet](https://colab.research.google.com/drive/180vroGH9nemeA4ZsSA1Zg0mHWDiT8XYH?usp=sharing)
 
 **Análisis con Prophet**
 
@@ -353,7 +353,7 @@ La evaluación no da buenos resultados.
 
 **Modelos de Ensambles**
 
-[Adidas_ Ensambles.ipynb](https://colab.research.google.com/drive/1eCxRJhxTmTBAumxtliCye2N0HRPOxdqn?usp=sharing)![](Aspose.Words.7a640a02-b30b-48d2-b42f-a4a7d2b7589e.015.png)
+[Adidas Ensambles](https://colab.research.google.com/drive/1eCxRJhxTmTBAumxtliCye2N0HRPOxdqn?usp=sharing)
 
 Estas son las métricas obtenidas aplicando granularidades de tiempo
 
@@ -389,7 +389,7 @@ Error cuadrático medio (RMSE) del modelo ADABOOST: 13249.21554422838
 
 **LSTM**
 
-[ADIDAS-LSTM.ipynb](https://colab.research.google.com/drive/100LaoJ_7NJ7VNur1MwzwJDUyY-Z993DJ?usp=sharing)![](Aspose.Words.7a640a02-b30b-48d2-b42f-a4a7d2b7589e.016.png)
+[Adidas LSTM](https://colab.research.google.com/drive/100LaoJ_7NJ7VNur1MwzwJDUyY-Z993DJ?usp=sharing)
 
 El análisis de series temporales se considera una herramienta clave para comprender y predecir el comportamiento de variables a lo largo del tiempo, como las ventas de una empresa. En este contexto, los modelos de Redes Neuronales Recurrentes, específicamente las Redes (LSTM), se han vuelto populares por su capacidad para capturar la dinámica temporal de los datos.
 
@@ -419,7 +419,7 @@ Para mejorar el rendimiento del modelo, se recomienda revisar a fondo la calidad
 
 **Pycaret para regresión**
 
-[Adidas_Pycaret_Regresion.ipynb](https://colab.research.google.com/drive/10yujcz5Q83zrJtGfxJD_lKWKFfi4jnt1?usp=sharing)![](Aspose.Words.7a640a02-b30b-48d2-b42f-a4a7d2b7589e.017.png)
+[Adidas Pycaret Regresion](https://colab.research.google.com/drive/10yujcz5Q83zrJtGfxJD_lKWKFfi4jnt1?usp=sharing)
 
 Se le pide a Pycaret hacer un preprocesamiento y normalización de datos.
 
@@ -444,7 +444,7 @@ Se le pide a Pycaret hacer un preprocesamiento y normalización de datos.
 5. MAPE (Error porcentual absoluto medio): El MAPE es una medida del error porcentual entre las predicciones y los valores reales. Con un valor de 0.0043, indica que, en promedio, las predicciones tienen un error absoluto del 0.43%.
 
 El modelo tiene un buen desempeño en términos de precisión y ajuste a los datos, con errores relativamente bajos y un alto coeficiente de determinación.
-
+![](https://github.com/jorge-flores-py/Proyecto-Procesamiento-de-Datos/blob/main/images/Super_Heroes.png?raw=true \"Proyecto PRO1 Procesamiento de Datos 2023\")
 ![](Aspose.Words.7a640a02-b30b-48d2-b42f-a4a7d2b7589e.020.jpeg)
 
 Se opta por seleccionar este modelo y dejarlo listo para producción.
