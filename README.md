@@ -274,7 +274,8 @@ Cómo la mayoría del análisis de BI lo abordamos en Power BI, solo nos concent
 
 **EDA**
 
-[ Adidas EDA.ipynb](https://colab.research.google.com/drive/17FoaaFcNQaC4q4OM4wbbqiJDAzYW1F_P?usp=sharing)![](Aspose.Words.7a640a02-b30b-48d2-b42f-a4a7d2b7589e.003.png)
+![Static Badge](https://img.shields.io/badge/Adidas%20EDA-black?style=flat-square&label=COLAB&color=orange&link=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F17FoaaFcNQaC4q4OM4wbbqiJDAzYW1F_P%3Fusp%3Dsharing)
+
 
 **Análisis Exploratorio de Datos**
 
